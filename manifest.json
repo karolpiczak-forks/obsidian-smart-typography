@@ -1,6 +1,6 @@
 {
-	"id": "obsidian-smart-typography",
-	"name": "Smart Typography",
+	"id": "kpfork-obsidian-smart-typography",
+	"name": "[R]: Smart Typography",
 	"version": "1.0.18",
 	"minAppVersion": "0.15.0",
 	"description": "Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses",
